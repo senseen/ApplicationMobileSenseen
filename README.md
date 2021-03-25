@@ -2,6 +2,15 @@
 
 Link to download different versions of senseen application
 
+Senseen : Principal application 
+Old : Old version of the application
+
+Vertal : Modify application for Vertal
+BrieucRomedenne : Modify application for BrieucRomedenne
+
+
+NeoSpectra : Application NeoSpectra
+
 # Presentation of the Senseen application : 
 
 •	 Launching the application 
