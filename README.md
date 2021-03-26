@@ -42,3 +42,8 @@ If you have saved scans in the phone. It is possible to save them later in the c
 Then in the phone, you have to go to 'Documents' then the 'senseen' folder and select the file containing our scans. You can select several at the same time.
 Once the scans are loaded, we can either launch the prediction (only available for one scan) or save the scan on the cloud. 
 
+•	 Modification of your personal information
+
+To do this, go to the 'my profile' tab and click on the profile picture. Now you can fill in the different fields such as the phone number and your address.
+
+
